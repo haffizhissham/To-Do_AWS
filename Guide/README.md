@@ -59,5 +59,6 @@
 #### References
 - https://docs.aws.amazon.com/cdk/v2/guide/home.html
 - https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html
+- https://stackoverflow.com/questions/68643349/cdk-deploy-not-recognizing-my-bootstrap-and-ssm-parameter
 - [▶ How To Build a CRUD (TO-DO) App on AWS using FastAPI and Python](https://www.youtube.com/watch?v=iLt00bqp6is)
 - [▶ AWS CDK Overview with Stack and Constructs (different examples and use cases)](https://www.youtube.com/watch?v=h_gRGRbOjJ8)
