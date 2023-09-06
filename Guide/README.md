@@ -36,7 +36,8 @@
         - ![Destroy stack](Destroy-Stack/3.Destroy_CDK.png)
         - ![Destroy stack 2](Destroy-Stack/4.Destroyed_Stack(s).png)
 5. Verify stack detroyed on AWS Management Console (CloudFormation)
-    *
+    * ![Verify destroy](Destroy-Stack/5.Verify.png)
+    * ![Verify destroy](Destroy-Stack/6.Verify(2).png)
 
 
 <br>
