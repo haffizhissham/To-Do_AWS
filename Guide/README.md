@@ -30,6 +30,13 @@
 <br>
 <br>
 
+## Deploying Stack
+
+
+
+<br>
+<br>
+
 ## Destroying Stack
 1. Open terminal
 2. Go to folder for infrastucture deployment
