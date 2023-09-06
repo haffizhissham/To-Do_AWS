@@ -3,10 +3,10 @@
 
 #### Requirement
 1. npm
-    i. https://nodejs.org/en/download
-    ii. https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+        i. https://nodejs.org/en/download
+        ii. https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 2. AWS CLI
-    i. https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+        i. https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 3. AWS CDK
 
 </br>
