@@ -14,9 +14,19 @@
 
 ## Configure CDK
 1. Configure AWS credential
-    - `aws configure`
+    * Create access key on AWS Account / IAM
+    > ![Access key](Configure-CDK/1.Access_Key.png)
+    * `aws configure`
+    * 
+
+<br>
+<br>
+
 ## Destroying Stack
 
+
+<br>
+<br>
 
 #### References
 - https://docs.aws.amazon.com/cdk/v2/guide/home.html
