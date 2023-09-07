@@ -15,6 +15,7 @@
 ## Configure CDK
 1. Configure AWS credential
     * Create access key on AWS Account / IAM
+        > Good practice = Replace access key as frequent as possible
         - ![Access key](Configure-CDK/1.Access_Key.png)
     * Open terminal, run `aws configure`
     * Put credential created in AWS Management Console
