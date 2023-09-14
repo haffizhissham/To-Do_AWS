@@ -1,4 +1,4 @@
-![image](https://github.com/haffizhissham/To-Do_AWS/assets/38602279/d5abaee5-cff2-4db8-b603-be720b23cb62)# Guide for Deployment Using AWS CDK
+# Guide for Deployment Using AWS CDK
 </br>
 
 #### Requirement
