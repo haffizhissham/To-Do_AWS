@@ -1,4 +1,4 @@
-# Guide for Deployment Using AWS CDK
+![image](https://github.com/haffizhissham/To-Do_AWS/assets/38602279/d5abaee5-cff2-4db8-b603-be720b23cb62)# Guide for Deployment Using AWS CDK
 </br>
 
 #### Requirement
@@ -25,7 +25,7 @@
     * If, no CDK Tool in **AWS Environment/region**
        - ![CDK Toolkit in Environment](Configure-CDK/3.Bootstrap.png)
     * run `cdk bootstrap` in the terminal
-       - ![Bootstrapping environment](Configure-CDK/5.Bootstrap_Environment(1).jfif)
+       - ![Bootstrapping environment](Configure-CDK/4.Bootstrap_Environment(1).jfif)
        - ![Bootstrapping environment](Configure-CDK/5.Bootstrap_Environment(2).jfif)
 
 <br>
