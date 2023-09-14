@@ -25,7 +25,7 @@
     * If, no CDK Tool in **AWS Environment/region**
        - ![CDK Toolkit in Environment](Configure-CDK/3.Bootstrap.png)
     * run `cdk bootstrap` in the terminal
-       - ![Bootstrapping environment](Configure-CDK/5.Bootstrap_Environment(2).jfif)
+       - ![Bootstrapping environment](Configure-CDK/5.Bootstrap_Environment(1).jfif)
        - ![Bootstrapping environment](Configure-CDK/5.Bootstrap_Environment(2).jfif)
 
 <br>
